@@ -1,2 +1,2 @@
 # robomaster_minst
-robomaster2017手写数字和数码管的识别
+2017robomaster手写数字和数码管的识别
